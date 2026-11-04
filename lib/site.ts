@@ -65,6 +65,12 @@ export const PROJECTS = [
     stack: ["HTML", "CSS", "JavaScript"],
     demo: "https://alawibro.github.io/hp-web-coba/",
   },
+  {
+    title: "3D Web Hero PC",
+    description: "Pemilih persona retrowave dengan lima karakter 3D dan transisi spin-swap di atas panggung synthwave.",
+    stack: ["HTML", "CSS", "JavaScript", "GSAP", "model-viewer"],
+    demo: "https://alawibro.github.io/3d-WEB-Hero-pc/",
+  },
 ]
 
 export const CONTACT = {
