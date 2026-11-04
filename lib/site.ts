@@ -77,6 +77,12 @@ export const PROJECTS = [
     stack: [],
     demo: "https://alawibro.github.io/Ironman-versi-pc/",
   },
+  {
+    title: "Dukun Khusus PC",
+    description: "Halaman Dukun, studio ritual daring fiktif dengan nuansa spiritual tradisional yang dikemas gaya modern.",
+    stack: [],
+    demo: "https://alawibro.github.io/Dukun-Khusus-PC/",
+  },
 ]
 
 export const CONTACT = {
