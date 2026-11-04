@@ -71,6 +71,12 @@ export const PROJECTS = [
     stack: ["HTML", "CSS", "JavaScript", "GSAP", "model-viewer"],
     demo: "https://alawibro.github.io/3d-WEB-Hero-pc/",
   },
+  {
+    title: "Ironman Versi PC",
+    description: "Halaman pengenalan Ironman versi PC dengan video pembuka, bagian fitur, dan FAQ.",
+    stack: [],
+    demo: "https://alawibro.github.io/Ironman-versi-pc/",
+  },
 ]
 
 export const CONTACT = {
