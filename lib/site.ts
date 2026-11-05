@@ -83,6 +83,12 @@ export const PROJECTS = [
     stack: [],
     demo: "https://alawibro.github.io/Dukun-Khusus-PC/",
   },
+  {
+    title: "PC Gabut",
+    description: "Halaman sketchbook M. Baihaqi Alawi.",
+    stack: [],
+    demo: "https://alawibro.github.io/pc-gabut/",
+  },
 ]
 
 export const CONTACT = {
