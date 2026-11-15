@@ -89,6 +89,12 @@ export const PROJECTS = [
     stack: [],
     demo: "https://alawibro.github.io/pc-gabut/",
   },
+  {
+    title: "Black Clover",
+    description: "Portofolio bergaya menu jeda Persona 3 Reload, bertema Black Clover.",
+    stack: [],
+    demo: "https://alawibro.github.io/black-clover/",
+  },
 ]
 
 export const CONTACT = {
